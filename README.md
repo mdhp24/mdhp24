@@ -3,7 +3,7 @@
 <h3 align="center">Students at the state polytechnic of malang, Indonesia.</h3>
 <h4 align="center">Majoring in Information Technology.</h4>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/a7cc941b-a0dd-41eb-82f4-ad7457ad9567](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fteguhaugani%2Fteguhaugani&psig=AOvVaw3sGYr2zxCke32XuHtUof46&ust=1731247659391000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC_2J62z4kDFQAAAAAdAAAAABAR))">
+<img align="right" alt="coding" width="400" src="https://github.com/rajpratyush/rajpratyush/blob/main/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dicky-hanun-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-dicky-hanun-p" /> </p>
 
