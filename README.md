@@ -1,4 +1,4 @@
-![logo](https://github.com/M-Dicky-Hanun-P/M-Dicky-Hanun-P/blob/main/banner1.png)
+![logo](https://github.com/M-Dicky-Hanun-P/M-Dicky-Hanun-P/blob/main/banner2.png)
 <h3 align="center">Students at the state polytechnic of malang, Indonesia.</h3>
 <h4 align="center">Majoring in Information Technology.</h4>
 
