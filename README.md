@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mochammad Dicky Hanun Prasetyo</h1>
 <h3 align="center">Students at the state polytechnic of malang, Indonesia.</h3>
-<h3 align="center">Majoring in Information Technology.</h3>
+<h4 align="center">Majoring in Information Technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dicky-hanun-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-dicky-hanun-p" /> </p>
 
