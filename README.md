@@ -1,4 +1,4 @@
-![logo](https://github.com/M-Dicky-Hanun-P/M-Dicky-Hanun-P/blob/main/banner2.png)
+![logo](https://github.com/M-Dicky-Hanun-P/M-Dicky-Hanun-P/blob/main/bg.png)
 
 <img align="right" alt="coding" width="400" src="https://github.com/rajpratyush/rajpratyush/blob/main/me_1.gif">
 <img align="right" alt="coding" width="400" src="https://github.com/rajpratyush/rajpratyush/blob/main/gif.gif">
