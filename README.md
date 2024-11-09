@@ -4,6 +4,7 @@
 <h4 align="center">Majoring in Information Technology.</h4>
 
 <img align="right" alt="coding" width="400" src="https://github.com/rajpratyush/rajpratyush/blob/main/me_1.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/rajpratyush/rajpratyush/blob/main/gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dicky-hanun-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-dicky-hanun-p" /> </p>
 
