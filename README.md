@@ -6,22 +6,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dicky-hanun-p&label=Profile%20views&color=0e75b6&style=flat" alt="m-dicky-hanun-p" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/mcdicky_mdhp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcdicky_mdhp" height="30" width="40" />
-    <span style="margin-left: 10px;">My Instagram</span>
+<p align="left" style="display: flex; flex-direction: column; gap: 10px;">
+  <a href="https://instagram.com/mcdicky_mdhp" target="blank" style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcdicky_mdhp" height="30" width="40" />
+    <span>Instagram</span>
   </a>
-  <hr>
-  <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammad-dicky-hanun-prasetyo" height="30" width="40" />
-    <span style="margin-left: 10px;">LinkedIn</span>
+  <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="blank" style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammad-dicky-hanun-prasetyo" height="30" width="40" />
+    <span>LinkedIn</span>
   </a>
-  <hr>
-  <a href="https://m-dicky-hanun-p.github.io" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github.io" height="30" width="40" />
-    <span style="margin-left: 10px;">Portofolio</span>
+  <a href="https://m-dicky-hanun-p.github.io" target="blank" style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github.io" height="30" width="40" />
+    <span>Portofolio</span>
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
