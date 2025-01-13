@@ -20,7 +20,7 @@
   </a><br><br>
 <a href="https://m-dicky-hanun-p.github.io" target="blank" style="display: flex; align-items: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" height="30" width="40" />
-   <span> - Portfolio</span>
+   <span> - Portofolio</span>
 </a>
 </p><hr>
 
