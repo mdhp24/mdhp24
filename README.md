@@ -12,15 +12,15 @@
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://instagram.com/mcdicky_mdhp" target="blank" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcdicky_mdhp" height="30" width="40" />
-    <span> - Instagram</span>
+    <span> - Visit my instagram</span>
   </a><br><br>
   <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="blank" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammad-dicky-hanun-prasetyo" height="30" width="40" />
-    <span> - LinkedIn</span>
+    <span> - Visit my LinkedIn</span>
   </a><br><br>
 <a href="https://m-dicky-hanun-p.github.io" target="blank" style="display: flex; align-items: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" height="30" width="40" />
-   <span> - Portofolio</span>
+   <span> - Visit my Portofolio</span>
 </a>
 </p><hr>
 
