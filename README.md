@@ -12,16 +12,17 @@
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://instagram.com/mcdicky_mdhp" target="blank" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcdicky_mdhp" height="30" width="40" />
-    <span> - Visit my instagram</span>
+    <span> - my instagram</span>
   </a><br><br>
   <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="blank" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mochammad-dicky-hanun-prasetyo" height="30" width="40" />
-    <span> - Visit my LinkedIn</span>
+    <span> - my LinkedIn</span>
   </a><br><br>
 <a href="https://m-dicky-hanun-p.github.io" target="blank" style="display: flex; align-items: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" height="30" width="40" />
-   <span> - Visit my Portofolio</span>
-</a>
+   <span> - my Portofolio</span>
+</a><br><br>
+  <a href="https://www.leetcode.com/dickyhanunp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dickyhanunp" height="30" width="40" /> - my LeetCode</a>
 </p><hr>
 
 
