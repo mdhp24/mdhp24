@@ -51,19 +51,19 @@
 ---
 
 <h3 align="center">🔥 GitHub Stats & Streak</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-dicky-hanun-p&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=FFA500&icon_color=FF8C00&border_radius=10&border_color=FFFFFF" alt="GitHub Stats" height="187"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-dicky-hanun-p&border_radius=10&background=0d1117&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FF8C00&sideLabels=FF8C00&border=2&stroke=FF4500&border_color=FFFFFF" alt="GitHub Streak" height="187"/>
-</p>
-
+<table align="center" border="2" style="border-collapse: collapse; border-color: white; background-color: white;">
+  <tr>
+    <td style="border: 2px solid white; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=m-dicky-hanun-p&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=FFA500&icon_color=FF8C00&border_radius=10&border_color=FFFFFF" alt="GitHub Stats" height="187"/>
+    </td>
+    <td style="border: 2px solid white; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-dicky-hanun-p&border_radius=10&background=0d1117&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FF8C00&sideLabels=FF8C00&border=2&stroke=FF4500&border_color=FFFFFF" alt="GitHub Streak" height="187"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center" style="font-size:16px; font-weight:bold; color:#FFD700;">
   <em>🚀 Keep Learning | Keep Focus | Keep Calm 🚀</em>
 </p>
-
-
-
-
-
