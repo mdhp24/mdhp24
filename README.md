@@ -18,16 +18,16 @@
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
   <a href="https://instagram.com/mcdicky_mdhp" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />Instagram &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />&raquo; Instagram &nbsp
   </a>
   <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />LinkedIn &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />&raquo; LinkedIn &nbsp
   </a>
   <a href="https://www.leetcode.com/dickyhanunp" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />LeetCode &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />&raquo; LeetCode &nbsp
   </a>
   <a href="https://m-dicky-hanun-p.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Portfolio" height="30" width="40" />Portofolio &nbsp &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Portfolio" height="30" width="40" />&raquo; Portofolio &nbsp
   </a>
 </p>
 
