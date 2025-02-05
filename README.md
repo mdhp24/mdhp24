@@ -26,7 +26,7 @@
   <a href="https://www.leetcode.com/dickyhanunp" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />&raquo; LeetCode &nbsp
   </a>
-  <a href="https://m-dicky-hanun-p.github.io" target="_blank">
+  <a href="https://mdhp24.github.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Portfolio" height="30" width="40" />&raquo; Portofolio &nbsp
   </a>
 </p>
