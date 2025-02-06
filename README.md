@@ -1,16 +1,16 @@
 <h2 align="center">🚀 Welcome to My GitHub Profile! 🚀</h2>
 
-![logo](https://github.com/M-Dicky-Hanun-P/M-Dicky-Hanun-P/blob/main/bg1.png)<hr>
+![logo](https://github.com/mdhp24/mdhp24/blob/main/bg1.png)<hr>
 
 <h3 align="center">📊 Languages Percentage</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-dicky-hanun-p&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=ffd700&icon_color=ffd700&border_radius=10" alt="m-dicky-hanun-p" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhp24&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=ffd700&icon_color=ffd700&border_radius=10" alt="mdhp24" width="45%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-dicky-hanun-p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdhp24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
@@ -50,10 +50,10 @@
 <table align="center" border="2" style="border-collapse: collapse; border-color: white; background-color: white;">
   <tr>
     <td style="border: 2px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=m-dicky-hanun-p&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=FFA500&icon_color=FF8C00&border_radius=10&border_color=FFFFFF" alt="GitHub Stats" height="187"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdhp24&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=FFA500&icon_color=FF8C00&border_radius=10&border_color=FFFFFF" alt="GitHub Stats" height="187"/>
     </td>
     <td style="border: 2px solid white; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-dicky-hanun-p&border_radius=10&background=0d1117&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FF8C00&sideLabels=FF8C00&border=2&stroke=FF4500&border_color=FFFFFF" alt="GitHub Streak" height="187"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhp24&border_radius=10&background=0d1117&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FF8C00&sideLabels=FF8C00&border=2&stroke=FF4500&border_color=FFFFFF" alt="GitHub Streak" height="187"/>
     </td>
   </tr>
 </table>
