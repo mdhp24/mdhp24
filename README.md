@@ -47,16 +47,23 @@
 ---
 
 <h3 align="center">🔥 GitHub Stats & Streak</h3>
-<table align="center" border="2" style="border-collapse: collapse; border-color: white; background-color: white;">
-  <tr>
-    <td style="border: 2px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mdhp24&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=FFA500&icon_color=FF8C00&border_radius=10&border_color=FFFFFF" alt="GitHub Stats" height="187"/>
-    </td>
-    <td style="border: 2px solid white; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhp24&border_radius=10&background=0d1117&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=FF8C00&sideLabels=FF8C00&border=2&stroke=FF4500&border_color=FFFFFF" alt="GitHub Streak" height="187"/>
-    </td>
-  </tr>
-</table>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #0d1117; padding: 20px; border-radius: 15px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdhp24&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f4f4f4&icon_color=FFA500&title_color=FFA500" 
+    alt="GitHub Stats" 
+    height="190"
+    style="border-radius: 12px;"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdhp24&hide_border=true&background=0d1117&currStreakLabel=FFA500&currStreakNum=f4f4f4&sideNums=f4f4f4&sideLabels=FFA500&dates=f4f4f4&fire=FFA500&ring=FF8C00" 
+    alt="GitHub Streak" 
+    height="190"
+    style="border-radius: 12px;"
+  />
+</div>
+
 
 ---
 
