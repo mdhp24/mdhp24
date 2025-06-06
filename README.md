@@ -3,9 +3,14 @@
 ![logo](https://github.com/mdhp24/mdhp24/blob/main/bg1.png)<hr>
 
 <h3 align="center">📊 Languages Percentage</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhp24&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117&text_color=ffd700&icon_color=ffd700&border_radius=10" alt="mdhp24" width="45%"/>
-</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #0d1117; padding: 20px; border-radius: 15px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhp24&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f4f4f4&title_color=FFA500&icon_color=FFA500" 
+    alt="Top Languages by mdhp24" 
+    style="border-radius: 12px; width: 45%; min-width: 280px;" 
+  />
+</div>
 
 ---
 
