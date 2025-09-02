@@ -22,7 +22,7 @@
 </div>
 <!-- Main Profile Views Badge -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mdhp24&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" style="margin: 8px; border-radius: 10px; box-shadow: 0 6px 20px rgba(138, 43, 226, 0.4); position: relative; z-index: 1;" />
+<img src="https://komarev.com/ghpvc/?username=mdhp24&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" style="margin: 8px; border-radius: 10px; box-shadow: 0 6px 20px rgba(138, 43, 226, 0.4); position: relative; z-index: 2;" />
 </div>
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=400&lines=My+Programming+Languages+💻;Always+Exploring+New+Tech+🚀" alt="Languages Typing" />
