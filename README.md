@@ -13,11 +13,18 @@
 <div align="center" style="margin: 30px 0;">
   <img src="https://github.com/mdhp24/mdhp24/blob/main/bg1.png" alt="Profile Banner" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 123, 255, 0.3), 0 0 80px rgba(255, 215, 0, 0.2); border: 1px solid rgba(0, 123, 255, 0.4); max-width: 90%;">
 </div>
+
+
+
 <!-- Animated Divider -->
 <div align="center" style="margin: 40px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter: hue-rotate(200deg) saturate(1.2);">
 </div>
+<!-- Main Profile Views Badge -->
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=mdhp24&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" style="margin: 8px; border-radius: 10px; box-shadow: 0 6px 20px rgba(138, 43, 226, 0.4); position: relative; z-index: 2;" />
+</div>
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=400&lines=My+Programming+Languages+💻;Always+Exploring+New+Tech+🚀" alt="Languages Typing" />
 </div>
 <div align="center" style="margin: 30px 0;">
