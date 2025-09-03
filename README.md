@@ -142,10 +142,13 @@
     <div style="width: 12px; height: 12px; background: #007BFF; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); animation: spin 3s linear infinite reverse;"></div>
   </div>
 </div>
-<div align="center">
-  <div style="color: #FFD700; font-size: 18px; font-weight: bold; margin: 20px 0;">
-    🏆 GitHub Trophies
-  </div>
+  <!-- Judul dengan efek neon -->
+  <div align="center">
+  <h2 style="color:#00f5ff; font-family: 'Fira Code', monospace; text-shadow: 0 0 10px #00f5ff, 0 0 20px #00f5ff, 0 0 30px #00f5ff;">
+    🚀 GitHub Trophies 🚀
+  </h2>
+   <!-- Animasi typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Unlocking+Achievements+in+Code;Collecting+Trophies+with+Passion;Powered+by+Open+Source+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <div align="center" style="margin: 30px 0;">
   <div style="background: linear-gradient(135deg, rgba(13, 17, 35, 0.9) 0%, rgba(40, 40, 60, 0.9) 100%); backdrop-filter: blur(15px); padding: 25px; border-radius: 20px; border: 2px solid rgba(255, 215, 0, 0.4); box-shadow: 0 10px 35px rgba(255, 215, 0, 0.3), 0 0 70px rgba(0, 123, 255, 0.1);">
