@@ -123,13 +123,6 @@
   height="190"
   style="border-radius: 20px; position: relative; z-index: 2; border: 1px solid rgba(0, 123, 255, 0.25); box-shadow: 0 8px 25px rgba(0, 123, 255, 0.2);"
 />
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mdhp24&hide_border=true&background=0d1123&currStreakLabel=FFD700&currStreakNum=f4f4f4&sideNums=f4f4f4&sideLabels=007BFF&dates=f4f4f4&fire=FFD700&ring=007BFF&border_radius=15" 
-  alt="GitHub Streak" 
-  height="190"
-  style="border-radius: 20px; position: relative; z-index: 2; border: 1px solid rgba(255, 215, 0, 0.25); box-shadow: 0 8px 25px rgba(255, 215, 0, 0.2);"
-/>
   </div>
 </div>
 <div align="center" style="margin: 30px 0;">
