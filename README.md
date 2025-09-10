@@ -55,17 +55,17 @@
 </div>
 <div align="center" style="margin: 30px 0;">
   <div style="background: linear-gradient(135deg, rgba(13, 17, 35, 0.9) 0%, rgba(26, 27, 50, 0.9) 100%); backdrop-filter: blur(20px); padding: 25px; border-radius: 20px; border: 2px solid rgba(0, 123, 255, 0.3); box-shadow: 0 8px 25px rgba(0, 123, 255, 0.4), 0 0 50px rgba(255, 215, 0, 0.1);">
-    <a href="https://instagram.com/mcdicky_mdhp" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
+    <a href="https://mdhp24.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
     </a>
     <a href="https://linkedin.com/in/mochammad-dicky-hanun-prasetyo-a4575a2b7" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
     </a>
+    <a href="https://instagram.com/mcdicky_mdhp" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
+    </a>
     <a href="https://www.leetcode.com/dickyhanunp" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
-    </a>
-    <a href="https://mdhp24.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 8px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 8px;" />
     </a>
   </div>
 </div>
