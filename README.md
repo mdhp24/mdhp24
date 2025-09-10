@@ -3,7 +3,6 @@
               background: linear-gradient(90deg, transparent 0%, rgba(255, 215, 0, 0.8) 50%, transparent 100%); 
               animation: slide 3s linear infinite;"></div>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=header&text=&animation=fadeIn" />
 </div>
@@ -13,9 +12,6 @@
 <div align="center" style="margin: 30px 0;">
   <img src="https://github.com/mdhp24/mdhp24/blob/main/bg1.png" alt="Profile Banner" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 123, 255, 0.3), 0 0 80px rgba(255, 215, 0, 0.2); border: 1px solid rgba(0, 123, 255, 0.4); max-width: 90%;">
 </div>
-
-
-
 <!-- Animated Divider -->
 <div align="center" style="margin: 40px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter: hue-rotate(200deg) saturate(1.2);">
@@ -38,7 +34,6 @@
 />
   </div>
 </div>
-
 <!-- Animated Gold Divider -->
 <div align="center" style="margin: 50px 0;">
   <div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent 0%, #FFD700 20%, #007BFF 50%, #FFD700 80%, transparent 100%); position: relative; overflow: hidden;">
@@ -97,7 +92,7 @@
 </div>
 <div align="center" style="margin: 30px 0;">
   <div style="background: linear-gradient(135deg, rgba(13, 17, 35, 0.95) 0%, rgba(22, 27, 44, 0.95) 50%, rgba(38, 39, 65, 0.95) 100%); backdrop-filter: blur(15px); padding: 30px; border-radius: 20px; border: 2px solid rgba(0, 123, 255, 0.35); box-shadow: 0 10px 35px rgba(0, 123, 255, 0.25), 0 0 70px rgba(255, 215, 0, 0.1);">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,flutter,git,postman&theme=dark" alt="Tech Stack" style="filter: drop-shadow(0 4px 12px rgba(0, 123, 255, 0.3)) drop-shadow(0 0 20px rgba(255, 215, 0, 0.2));" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,js,java,postman,html,css,flutter&theme=dark" alt="Tech Stack" style="filter: drop-shadow(0 4px 12px rgba(0, 123, 255, 0.3)) drop-shadow(0 0 20px rgba(255, 215, 0, 0.2));" />
   </div>
 </div>
 <!-- Pulsing Dots Divider -->
